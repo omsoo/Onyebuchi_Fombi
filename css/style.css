@@ -23,3 +23,17 @@ body {
 main {
     margin-left: 35vw;
 }
+#nav-list{
+    overflow-y: auto;
+    list-style: none;
+    padding: 1px;
+}
+#nav-list li{
+    border-style: solid;
+    text-align: center;
+    border-width: 1.5px;
+}
+.nav-link{
+    text-decoration: inherit;
+    color: inherit;
+}
